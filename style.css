@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+}
+.cuadradoAzul{
+    background-color: rgb(34, 173, 173);
+
+}
+.cuadradoRosa{
+    background-color: rgb(204, 91, 189);
+
+}
+.cuadradoBlanco{
+    background-color: rgb(238, 227, 227);
+
+}
+img.octocat {
+    height: 200px;
+    background-color: white;
+}
+.row{
+    display: flex;
+    padding: 1em;
+    margin: 2em;
+}
+
+.align-items-center{
+    align-items: center;
+
+}
+.justify-content-space-around{
+    justify-content: space-around;
+}
+.justify-content-space-between{
+    justify-content: space-between;
+}
+.justify-content-space-evenly{
+    justify-content: space-evenly;
+}
